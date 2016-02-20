@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>php-graveyard</name>
+		<description>Graveyard for old PHP versions to keep our servers running.</description>
+		<homepage>https://github.com/kakra/php-graveyard</homepage>
+		<owner>
+			<email>hurikhan77@gmail.com</email>
+		</owner>
+		<source type="git">https://github.com/kakra/php-graveyard.git</source>
+	</repo>
+</repositories>
