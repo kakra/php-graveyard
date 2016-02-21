@@ -8,7 +8,7 @@ DOCS="TODO"
 
 MY_PV="${PV/rc/RC}"
 
-USE_PHP="php5-6 php5-5 php5-4"
+USE_PHP="php5-6 php5-5 php5-4 php5-3"
 
 inherit php-ext-pecl-r2
 
