@@ -12,7 +12,7 @@ USE_PHP="php5-6 php5-5 php5-4 php5-3"
 
 inherit php-ext-pecl-r2
 
-KEYWORDS="amd64 hppa ppc64 x86"
+KEYWORDS="~amd64 ~hppa ~ppc64 ~x86"
 
 DESCRIPTION="PHP extension for using memcached"
 LICENSE="PHP-3"
