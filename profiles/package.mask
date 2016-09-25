@@ -1,0 +1,4 @@
+# These PHP version are for archival purposes only. No
+# security updates will be applied. Use at your own
+# risk.
+dev-lang/php
